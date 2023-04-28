@@ -64,7 +64,8 @@ If you would like to contribute to this project, please follow these steps:
 3.  Make your changes and commit them (`git commit -am 'Add some feature'`)
 4.  Push to the branch (`git push origin feature/your-feature-name`)
 5.  Create a new Pull Request
-6.  License
+
+## 6.  License
 
 This project is licensed under the MIT license. For more information, please see the LICENSE file.
 
